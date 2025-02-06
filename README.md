@@ -93,6 +93,6 @@ React, Redux, Thunk usage. JavaScript experiences. Communication with backend. C
   
 ## Programmers
 
-- ([https://github.com/Berko01](https://github.com/divyanshuagarwal-23)) design and development.
+- ([https://github.com/divyanshuagarwal-23](https://github.com/divyanshuagarwal-23)) design and development.
 
   
