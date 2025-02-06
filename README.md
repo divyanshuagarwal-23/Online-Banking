@@ -12,7 +12,7 @@ Users can register, log in, view their account history, open new accounts, make 
 
 If you want to watch the project video you can visit my LinkedIn account:
 
-My LinkedIn Account [LinkedIn]( https://www.linkedin.com/feed/)
+My LinkedIn Account [LinkedIn]((https://www.linkedin.com/in/divyanshuagarwal23/))
 
 
 
