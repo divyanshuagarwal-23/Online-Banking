@@ -19,7 +19,6 @@ My LinkedIn Account [LinkedIn](https://www.linkedin.com/in/divyanshuagarwal23/)
 
 If you want to learn more about React and Redux, you can check out my article on React and Redux:
 
-React and Redux Article ( https://medium.com/@berkindundar2001/react-nedir-ve-react-redux-neden-%C3%B6nemlidir-4c846d7a5124)
 
 
 Feel free to ask if you have any further questions or need additional information!
